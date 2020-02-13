@@ -1,0 +1,1 @@
+# sling-sample-osgi
